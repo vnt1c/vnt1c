@@ -1,7 +1,7 @@
 # Ryan Hung
 
 ## About Me
-I focus on building and breaking systems — understanding how things work at a low level, and how they fail in the real world.
+Sophomore in CS. Continuously driving myself to learn about how computers work at a low-level (architecture, OS, ...) and ensure security at the software and hardware level.
 
 ## Interests
 - Systems Security
