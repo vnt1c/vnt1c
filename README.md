@@ -2,12 +2,8 @@
 
 ### Cybersecurity · Systems · Full-Stack Development
 
----
-
 ## About Me
 I focus on building and breaking systems — understanding how things work at a low level, and how they fail in the real world.
-
----
 
 ## Tech Stack
 
@@ -21,15 +17,11 @@ I focus on building and breaking systems — understanding how things work at a 
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust" />
 </p>
 
----
-
 ## Interests
 - Systems Security
 - Low-Level Programming
 - Backend Architecture
 - Offensive Security & Honeypots
-
----
 
 ## Currently
 - Exploring systems security and memory safety  
