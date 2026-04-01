@@ -1,7 +1,5 @@
 # Ryan Hung
 
-### Cybersecurity · Systems · Full-Stack Development
-
 ## About Me
 I focus on building and breaking systems — understanding how things work at a low level, and how they fail in the real world.
 
