@@ -38,5 +38,5 @@ I focus on building and breaking systems — understanding how things work at a 
 ---
 
 ## Contact
-- GitHub: https://github.com/yourusername
-- LinkedIn: (optional)
+- Email: ryanhung111@gmail.com
+- Linkedin: https://www.linkedin.com/in/ryanhung2/
