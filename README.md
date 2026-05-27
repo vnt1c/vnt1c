@@ -1,7 +1,7 @@
 # Ryan Hung
 
 ## About Me
-Sophomore in CS. Continuously driving myself to learn about how computers work at a low-level (architecture, OS, ...) and ensure security at the software and hardware level.
+Junior in CS. I love learning about how hardware and software interact. My interests lie in cybersecurity and systems. I'm also a running enthusiast, a pixel artist, and a gamer.
 
 ## Interests
 - Systems Security
