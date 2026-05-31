@@ -1,8 +1,5 @@
 # Ryan Hung
 
-## About Me
-Junior in CS. I love learning about how hardware and software interact. My interests lie in cybersecurity and systems. 
-
 ## Interests
 - Systems Security
 - Low-Level Programming
