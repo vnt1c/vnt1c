@@ -1,5 +1,3 @@
-# Ryan Hung
-
 ## Interests
 - Systems Security
 - Low-Level Programming
