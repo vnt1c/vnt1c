@@ -1,12 +1,11 @@
 ## Interests
 - Systems Security
 - Low-Level Programming
-- Backend Architecture
 - Offensive Security & Honeypots
 
 ## Currently
 - Exploring systems security and memory safety  
-- Building and analyzing real-world infrastructure  
+- Learning C++ & Rust, diving deeper into systems programming
 
 ## Contact
 - Email: ryanhung111@gmail.com
